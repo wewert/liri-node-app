@@ -1,4 +1,4 @@
-console.log('this is loaded');
+// console.log('this is loaded');
 
 var twitterKeys = {
   consumer_key: '7kfbg9I9pGCt9eo9DpzEnA3Kp',
@@ -16,8 +16,3 @@ module.exports = {
   twitterKeys,
   spotifyKeys
 }
-// module.exports = spotifyKeys;
-// module.exports = {
-// 	twitterKeys: twitterKeys,
-// 	spotifyKeys: spotifyKeys
-// }

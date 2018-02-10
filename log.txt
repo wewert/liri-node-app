@@ -544,3 +544,1180 @@ Song title: Havana
 Album name: Camila
 URL Preview: https://p.scdn.co/mp3-preview/663b794c2fc8da8f9bbe33698cb1bac567126a23?cid=c823a570f97343e78f3b9924178bd1f5
 =============================
+1. Tweet: Sad that some thought it okay to make a policy for this: https://t.co/Gpnit3wAEu
+Tweeted on: Thu Feb 08 06:44:42 +0000 2018
+
+2. Tweet: Didn't I just see this in the new Cloverfield movie? https://t.co/iaC3oykdE8
+Tweeted on: Thu Feb 08 06:41:01 +0000 2018
+
+3. Tweet: https://t.co/rBABPTaKOG
+Tweeted on: Thu Feb 08 06:39:18 +0000 2018
+
+4. Tweet: Whoa! https://t.co/LtUPJXuxw9
+Tweeted on: Thu Feb 08 06:38:33 +0000 2018
+
+5. Tweet: Great article about Jr. dev job description: https://t.co/VCQhQTlKXY
+Tweeted on: Thu Feb 08 06:30:10 +0000 2018
+
+6. Tweet: Yes, rockets! https://t.co/EboJkNJZsA
+Tweeted on: Thu Feb 08 06:28:37 +0000 2018
+
+7. Tweet: I like cheese.
+Tweeted on: Thu Mar 23 20:08:06 +0000 2017
+
+8. Tweet: Want to give your Mac interface a retro look? Download this icon and wallpaper set by @BenVessey click here! http://t.co/4nJ3zzp3
+Tweeted on: Fri Jul 20 06:38:00 +0000 2012
+
+9. Tweet: RT @TCDahl: Bye bye desktop/laptop! In 2011, One billion+ Smart Devices. @Dan_Rowinski http://t.co/VpvsIEJB via @RWW
+Tweeted on: Fri Mar 30 20:19:32 +0000 2012
+
+10. Tweet: Sad when the official app doesn't work better then a third party.
+Tweeted on: Mon Mar 26 22:04:34 +0000 2012
+
+11. Tweet: Frozen Planet is pretty awesome.
+Tweeted on: Mon Mar 26 03:45:50 +0000 2012
+
+12. Tweet: What's up with my iPhone facebook app? It's not working.
+Tweeted on: Sat Feb 20 18:26:14 +0000 2010
+
+13. Tweet: I did it.  I finally got my very own iPhone and it is the best piece of techology I've gotten in a long time.
+Tweeted on: Thu Aug 20 05:30:20 +0000 2009
+
+14. Tweet: I just had the most amazing organic chicken curry salad sandwich in my life.  I went to Vert Kitchen at 704 S. Pearl St.  Go check them out!
+Tweeted on: Fri May 01 20:11:14 +0000 2009
+
+15. Tweet: Just uploaded some client content for Akavit and was great.  Akavit is a pretty awesome place to get work done.
+Tweeted on: Thu Apr 30 23:04:36 +0000 2009
+
+16. Tweet: I just shoved snow for the second time since yesterday and I have to say it is my back is thanking me right now.
+Tweeted on: Fri Mar 27 15:53:27 +0000 2009
+
+17. Tweet: I just got back from a day of networking.  Boy am I tired.  But I do have a nice pile of cards now.
+Tweeted on: Wed Mar 11 01:59:24 +0000 2009
+
+18. Tweet: But it's the planet formally known as Pluto...But Pluto is not a planet any more.
+Tweeted on: Tue Mar 10 02:51:26 +0000 2009
+
+19. Tweet: Now, I'm signing up for every social networking site on the planet...
+Tweeted on: Tue Mar 10 02:51:20 +0000 2009
+
+20. Tweet: I'm looking for friends
+Tweeted on: Tue Mar 10 02:48:08 +0000 2009
+
+
+========= Result 1 =========
+Artist: Echo & the Bunnymen
+Song title: Lips Like Sugar
+Album name: Echo & the Bunnymen
+URL Preview: https://p.scdn.co/mp3-preview/6ccf6925873f55e8c87db3963302eb65889ae9d6?cid=c823a570f97343e78f3b9924178bd1f5
+=============================
+
+========= Result 1 =========
+Artist: Charlie Puth
+Song title: How Long
+Album name: How Long
+URL Preview: https://p.scdn.co/mp3-preview/8857931984acbbcca43e73745084cc76aba25845?cid=c823a570f97343e78f3b9924178bd1f5
+=============================
+-----OMDB Log Entry Start-----
+
+Processed on:
+Fri Feb 09 2018 13:02:06 GMT-0700 (MST)
+
+terminal commands:
+/usr/local/bin/node,/Users/MCP/du/homework/liri-node-app/liri.js,movie_this,amelie
+
+Data Output: 
+
+Movie Title: Amelie
+Year: 2017
+IMDB rating: N/A
+Rotten Tomatoes Rating: There is no Rotten Tomatoes Rating for this movie 
+Country: N/A
+Language: N/A
+Plot: N/A
+Actors: Marie Carrour
+
+-----OMDB Log Entry End-----
+
+-----OMDB Log Entry Start-----
+
+Processed on:
+Fri Feb 09 2018 13:03:39 GMT-0700 (MST)
+
+terminal commands:
+/usr/local/bin/node,/Users/MCP/du/homework/liri-node-app/liri.js,movie_this
+
+Data Output: 
+
+Movie Title: Mr. Nobody
+Year: 2009
+IMDB rating: 7.9
+Rotten Tomatoes Rating: 66%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+-----OMDB Log Entry End-----
+
+1. Tweet: Sad that some thought it okay to make a policy for this: https://t.co/Gpnit3wAEu
+Tweeted on: Thu Feb 08 06:44:42 +0000 2018
+
+2. Tweet: Didn't I just see this in the new Cloverfield movie? https://t.co/iaC3oykdE8
+Tweeted on: Thu Feb 08 06:41:01 +0000 2018
+
+3. Tweet: https://t.co/rBABPTaKOG
+Tweeted on: Thu Feb 08 06:39:18 +0000 2018
+
+4. Tweet: Whoa! https://t.co/LtUPJXuxw9
+Tweeted on: Thu Feb 08 06:38:33 +0000 2018
+
+5. Tweet: Great article about Jr. dev job description: https://t.co/VCQhQTlKXY
+Tweeted on: Thu Feb 08 06:30:10 +0000 2018
+
+6. Tweet: Yes, rockets! https://t.co/EboJkNJZsA
+Tweeted on: Thu Feb 08 06:28:37 +0000 2018
+
+7. Tweet: I like cheese.
+Tweeted on: Thu Mar 23 20:08:06 +0000 2017
+
+8. Tweet: Want to give your Mac interface a retro look? Download this icon and wallpaper set by @BenVessey click here! http://t.co/4nJ3zzp3
+Tweeted on: Fri Jul 20 06:38:00 +0000 2012
+
+9. Tweet: RT @TCDahl: Bye bye desktop/laptop! In 2011, One billion+ Smart Devices. @Dan_Rowinski http://t.co/VpvsIEJB via @RWW
+Tweeted on: Fri Mar 30 20:19:32 +0000 2012
+
+10. Tweet: Sad when the official app doesn't work better then a third party.
+Tweeted on: Mon Mar 26 22:04:34 +0000 2012
+
+11. Tweet: Frozen Planet is pretty awesome.
+Tweeted on: Mon Mar 26 03:45:50 +0000 2012
+
+12. Tweet: What's up with my iPhone facebook app? It's not working.
+Tweeted on: Sat Feb 20 18:26:14 +0000 2010
+
+13. Tweet: I did it.  I finally got my very own iPhone and it is the best piece of techology I've gotten in a long time.
+Tweeted on: Thu Aug 20 05:30:20 +0000 2009
+
+14. Tweet: I just had the most amazing organic chicken curry salad sandwich in my life.  I went to Vert Kitchen at 704 S. Pearl St.  Go check them out!
+Tweeted on: Fri May 01 20:11:14 +0000 2009
+
+15. Tweet: Just uploaded some client content for Akavit and was great.  Akavit is a pretty awesome place to get work done.
+Tweeted on: Thu Apr 30 23:04:36 +0000 2009
+
+16. Tweet: I just shoved snow for the second time since yesterday and I have to say it is my back is thanking me right now.
+Tweeted on: Fri Mar 27 15:53:27 +0000 2009
+
+17. Tweet: I just got back from a day of networking.  Boy am I tired.  But I do have a nice pile of cards now.
+Tweeted on: Wed Mar 11 01:59:24 +0000 2009
+
+18. Tweet: But it's the planet formally known as Pluto...But Pluto is not a planet any more.
+Tweeted on: Tue Mar 10 02:51:26 +0000 2009
+
+19. Tweet: Now, I'm signing up for every social networking site on the planet...
+Tweeted on: Tue Mar 10 02:51:20 +0000 2009
+
+20. Tweet: I'm looking for friends
+Tweeted on: Tue Mar 10 02:48:08 +0000 2009
+
+1. Tweet: Sad that some thought it okay to make a policy for this: https://t.co/Gpnit3wAEu
+Tweeted on: Thu Feb 08 06:44:42 +0000 2018
+
+2. Tweet: Didn't I just see this in the new Cloverfield movie? https://t.co/iaC3oykdE8
+Tweeted on: Thu Feb 08 06:41:01 +0000 2018
+
+3. Tweet: https://t.co/rBABPTaKOG
+Tweeted on: Thu Feb 08 06:39:18 +0000 2018
+
+4. Tweet: Whoa! https://t.co/LtUPJXuxw9
+Tweeted on: Thu Feb 08 06:38:33 +0000 2018
+
+5. Tweet: Great article about Jr. dev job description: https://t.co/VCQhQTlKXY
+Tweeted on: Thu Feb 08 06:30:10 +0000 2018
+
+6. Tweet: Yes, rockets! https://t.co/EboJkNJZsA
+Tweeted on: Thu Feb 08 06:28:37 +0000 2018
+
+7. Tweet: I like cheese.
+Tweeted on: Thu Mar 23 20:08:06 +0000 2017
+
+8. Tweet: Want to give your Mac interface a retro look? Download this icon and wallpaper set by @BenVessey click here! http://t.co/4nJ3zzp3
+Tweeted on: Fri Jul 20 06:38:00 +0000 2012
+
+9. Tweet: RT @TCDahl: Bye bye desktop/laptop! In 2011, One billion+ Smart Devices. @Dan_Rowinski http://t.co/VpvsIEJB via @RWW
+Tweeted on: Fri Mar 30 20:19:32 +0000 2012
+
+10. Tweet: Sad when the official app doesn't work better then a third party.
+Tweeted on: Mon Mar 26 22:04:34 +0000 2012
+
+11. Tweet: Frozen Planet is pretty awesome.
+Tweeted on: Mon Mar 26 03:45:50 +0000 2012
+
+12. Tweet: What's up with my iPhone facebook app? It's not working.
+Tweeted on: Sat Feb 20 18:26:14 +0000 2010
+
+13. Tweet: I did it.  I finally got my very own iPhone and it is the best piece of techology I've gotten in a long time.
+Tweeted on: Thu Aug 20 05:30:20 +0000 2009
+
+14. Tweet: I just had the most amazing organic chicken curry salad sandwich in my life.  I went to Vert Kitchen at 704 S. Pearl St.  Go check them out!
+Tweeted on: Fri May 01 20:11:14 +0000 2009
+
+15. Tweet: Just uploaded some client content for Akavit and was great.  Akavit is a pretty awesome place to get work done.
+Tweeted on: Thu Apr 30 23:04:36 +0000 2009
+
+16. Tweet: I just shoved snow for the second time since yesterday and I have to say it is my back is thanking me right now.
+Tweeted on: Fri Mar 27 15:53:27 +0000 2009
+
+17. Tweet: I just got back from a day of networking.  Boy am I tired.  But I do have a nice pile of cards now.
+Tweeted on: Wed Mar 11 01:59:24 +0000 2009
+
+18. Tweet: But it's the planet formally known as Pluto...But Pluto is not a planet any more.
+Tweeted on: Tue Mar 10 02:51:26 +0000 2009
+
+19. Tweet: Now, I'm signing up for every social networking site on the planet...
+Tweeted on: Tue Mar 10 02:51:20 +0000 2009
+
+20. Tweet: I'm looking for friends
+Tweeted on: Tue Mar 10 02:48:08 +0000 2009
+
+1. Tweet: Sad that some thought it okay to make a policy for this: https://t.co/Gpnit3wAEu
+Tweeted on: Thu Feb 08 06:44:42 +0000 2018
+
+2. Tweet: Didn't I just see this in the new Cloverfield movie? https://t.co/iaC3oykdE8
+Tweeted on: Thu Feb 08 06:41:01 +0000 2018
+
+3. Tweet: https://t.co/rBABPTaKOG
+Tweeted on: Thu Feb 08 06:39:18 +0000 2018
+
+4. Tweet: Whoa! https://t.co/LtUPJXuxw9
+Tweeted on: Thu Feb 08 06:38:33 +0000 2018
+
+5. Tweet: Great article about Jr. dev job description: https://t.co/VCQhQTlKXY
+Tweeted on: Thu Feb 08 06:30:10 +0000 2018
+
+6. Tweet: Yes, rockets! https://t.co/EboJkNJZsA
+Tweeted on: Thu Feb 08 06:28:37 +0000 2018
+
+7. Tweet: I like cheese.
+Tweeted on: Thu Mar 23 20:08:06 +0000 2017
+
+8. Tweet: Want to give your Mac interface a retro look? Download this icon and wallpaper set by @BenVessey click here! http://t.co/4nJ3zzp3
+Tweeted on: Fri Jul 20 06:38:00 +0000 2012
+
+9. Tweet: RT @TCDahl: Bye bye desktop/laptop! In 2011, One billion+ Smart Devices. @Dan_Rowinski http://t.co/VpvsIEJB via @RWW
+Tweeted on: Fri Mar 30 20:19:32 +0000 2012
+
+10. Tweet: Sad when the official app doesn't work better then a third party.
+Tweeted on: Mon Mar 26 22:04:34 +0000 2012
+
+11. Tweet: Frozen Planet is pretty awesome.
+Tweeted on: Mon Mar 26 03:45:50 +0000 2012
+
+12. Tweet: What's up with my iPhone facebook app? It's not working.
+Tweeted on: Sat Feb 20 18:26:14 +0000 2010
+
+13. Tweet: I did it.  I finally got my very own iPhone and it is the best piece of techology I've gotten in a long time.
+Tweeted on: Thu Aug 20 05:30:20 +0000 2009
+
+14. Tweet: I just had the most amazing organic chicken curry salad sandwich in my life.  I went to Vert Kitchen at 704 S. Pearl St.  Go check them out!
+Tweeted on: Fri May 01 20:11:14 +0000 2009
+
+15. Tweet: Just uploaded some client content for Akavit and was great.  Akavit is a pretty awesome place to get work done.
+Tweeted on: Thu Apr 30 23:04:36 +0000 2009
+
+16. Tweet: I just shoved snow for the second time since yesterday and I have to say it is my back is thanking me right now.
+Tweeted on: Fri Mar 27 15:53:27 +0000 2009
+
+17. Tweet: I just got back from a day of networking.  Boy am I tired.  But I do have a nice pile of cards now.
+Tweeted on: Wed Mar 11 01:59:24 +0000 2009
+
+18. Tweet: But it's the planet formally known as Pluto...But Pluto is not a planet any more.
+Tweeted on: Tue Mar 10 02:51:26 +0000 2009
+
+19. Tweet: Now, I'm signing up for every social networking site on the planet...
+Tweeted on: Tue Mar 10 02:51:20 +0000 2009
+
+20. Tweet: I'm looking for friends
+Tweeted on: Tue Mar 10 02:48:08 +0000 2009
+
+1. Tweet: Sad that some thought it okay to make a policy for this: https://t.co/Gpnit3wAEu
+Tweeted on: Thu Feb 08 06:44:42 +0000 2018
+
+2. Tweet: Didn't I just see this in the new Cloverfield movie? https://t.co/iaC3oykdE8
+Tweeted on: Thu Feb 08 06:41:01 +0000 2018
+
+3. Tweet: https://t.co/rBABPTaKOG
+Tweeted on: Thu Feb 08 06:39:18 +0000 2018
+
+4. Tweet: Whoa! https://t.co/LtUPJXuxw9
+Tweeted on: Thu Feb 08 06:38:33 +0000 2018
+
+5. Tweet: Great article about Jr. dev job description: https://t.co/VCQhQTlKXY
+Tweeted on: Thu Feb 08 06:30:10 +0000 2018
+
+6. Tweet: Yes, rockets! https://t.co/EboJkNJZsA
+Tweeted on: Thu Feb 08 06:28:37 +0000 2018
+
+7. Tweet: I like cheese.
+Tweeted on: Thu Mar 23 20:08:06 +0000 2017
+
+8. Tweet: Want to give your Mac interface a retro look? Download this icon and wallpaper set by @BenVessey click here! http://t.co/4nJ3zzp3
+Tweeted on: Fri Jul 20 06:38:00 +0000 2012
+
+9. Tweet: RT @TCDahl: Bye bye desktop/laptop! In 2011, One billion+ Smart Devices. @Dan_Rowinski http://t.co/VpvsIEJB via @RWW
+Tweeted on: Fri Mar 30 20:19:32 +0000 2012
+
+10. Tweet: Sad when the official app doesn't work better then a third party.
+Tweeted on: Mon Mar 26 22:04:34 +0000 2012
+
+11. Tweet: Frozen Planet is pretty awesome.
+Tweeted on: Mon Mar 26 03:45:50 +0000 2012
+
+12. Tweet: What's up with my iPhone facebook app? It's not working.
+Tweeted on: Sat Feb 20 18:26:14 +0000 2010
+
+13. Tweet: I did it.  I finally got my very own iPhone and it is the best piece of techology I've gotten in a long time.
+Tweeted on: Thu Aug 20 05:30:20 +0000 2009
+
+14. Tweet: I just had the most amazing organic chicken curry salad sandwich in my life.  I went to Vert Kitchen at 704 S. Pearl St.  Go check them out!
+Tweeted on: Fri May 01 20:11:14 +0000 2009
+
+15. Tweet: Just uploaded some client content for Akavit and was great.  Akavit is a pretty awesome place to get work done.
+Tweeted on: Thu Apr 30 23:04:36 +0000 2009
+
+16. Tweet: I just shoved snow for the second time since yesterday and I have to say it is my back is thanking me right now.
+Tweeted on: Fri Mar 27 15:53:27 +0000 2009
+
+17. Tweet: I just got back from a day of networking.  Boy am I tired.  But I do have a nice pile of cards now.
+Tweeted on: Wed Mar 11 01:59:24 +0000 2009
+
+18. Tweet: But it's the planet formally known as Pluto...But Pluto is not a planet any more.
+Tweeted on: Tue Mar 10 02:51:26 +0000 2009
+
+19. Tweet: Now, I'm signing up for every social networking site on the planet...
+Tweeted on: Tue Mar 10 02:51:20 +0000 2009
+
+20. Tweet: I'm looking for friends
+Tweeted on: Tue Mar 10 02:48:08 +0000 2009
+
+-----OMDB Log Entry Start-----
+
+Processed on:
+Fri Feb 09 2018 13:43:34 GMT-0700 (MST)
+
+terminal commands:
+/usr/local/bin/node,/Users/MCP/du/homework/liri-node-app/liri.js,movie_this
+
+Data Output: 
+
+Movie Title: Mr. Nobody
+Year: 2009
+IMDB rating: 7.9
+Rotten Tomatoes Rating: 66%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+-----OMDB Log Entry End-----
+
+-----OMDB Log Entry Start-----
+
+Processed on:
+Fri Feb 09 2018 13:52:57 GMT-0700 (MST)
+
+terminal commands:
+/usr/local/bin/node,/Users/MCP/du/homework/liri-node-app/liri.js,movie_this
+
+Data Output: 
+
+Movie Title: Amelie
+Year: 2017
+IMDB rating: N/A
+Rotten Tomatoes Rating: There is no Rotten Tomatoes Rating for this movie 
+Country: N/A
+Language: N/A
+Plot: N/A
+Actors: Marie Carrour
+
+-----OMDB Log Entry End-----
+
+-----OMDB Log Entry Start-----
+
+Processed on:
+Fri Feb 09 2018 13:53:15 GMT-0700 (MST)
+
+terminal commands:
+/usr/local/bin/node,/Users/MCP/du/homework/liri-node-app/liri.js,movie_this,amelie
+
+Data Output: 
+
+Movie Title: Amelie
+Year: 2017
+IMDB rating: N/A
+Rotten Tomatoes Rating: There is no Rotten Tomatoes Rating for this movie 
+Country: N/A
+Language: N/A
+Plot: N/A
+Actors: Marie Carrour
+
+-----OMDB Log Entry End-----
+
+
+========= Result 1 =========
+Artist: Charlie Puth
+Song title: How Long
+Album name: How Long
+URL Preview: https://p.scdn.co/mp3-preview/8857931984acbbcca43e73745084cc76aba25845?cid=c823a570f97343e78f3b9924178bd1f5
+=============================
+1. Tweet: Sad that some thought it okay to make a policy for this: https://t.co/Gpnit3wAEu
+Tweeted on: Thu Feb 08 06:44:42 +0000 2018
+
+2. Tweet: Didn't I just see this in the new Cloverfield movie? https://t.co/iaC3oykdE8
+Tweeted on: Thu Feb 08 06:41:01 +0000 2018
+
+3. Tweet: https://t.co/rBABPTaKOG
+Tweeted on: Thu Feb 08 06:39:18 +0000 2018
+
+4. Tweet: Whoa! https://t.co/LtUPJXuxw9
+Tweeted on: Thu Feb 08 06:38:33 +0000 2018
+
+5. Tweet: Great article about Jr. dev job description: https://t.co/VCQhQTlKXY
+Tweeted on: Thu Feb 08 06:30:10 +0000 2018
+
+6. Tweet: Yes, rockets! https://t.co/EboJkNJZsA
+Tweeted on: Thu Feb 08 06:28:37 +0000 2018
+
+7. Tweet: I like cheese.
+Tweeted on: Thu Mar 23 20:08:06 +0000 2017
+
+8. Tweet: Want to give your Mac interface a retro look? Download this icon and wallpaper set by @BenVessey click here! http://t.co/4nJ3zzp3
+Tweeted on: Fri Jul 20 06:38:00 +0000 2012
+
+9. Tweet: RT @TCDahl: Bye bye desktop/laptop! In 2011, One billion+ Smart Devices. @Dan_Rowinski http://t.co/VpvsIEJB via @RWW
+Tweeted on: Fri Mar 30 20:19:32 +0000 2012
+
+10. Tweet: Sad when the official app doesn't work better then a third party.
+Tweeted on: Mon Mar 26 22:04:34 +0000 2012
+
+11. Tweet: Frozen Planet is pretty awesome.
+Tweeted on: Mon Mar 26 03:45:50 +0000 2012
+
+12. Tweet: What's up with my iPhone facebook app? It's not working.
+Tweeted on: Sat Feb 20 18:26:14 +0000 2010
+
+13. Tweet: I did it.  I finally got my very own iPhone and it is the best piece of techology I've gotten in a long time.
+Tweeted on: Thu Aug 20 05:30:20 +0000 2009
+
+14. Tweet: I just had the most amazing organic chicken curry salad sandwich in my life.  I went to Vert Kitchen at 704 S. Pearl St.  Go check them out!
+Tweeted on: Fri May 01 20:11:14 +0000 2009
+
+15. Tweet: Just uploaded some client content for Akavit and was great.  Akavit is a pretty awesome place to get work done.
+Tweeted on: Thu Apr 30 23:04:36 +0000 2009
+
+16. Tweet: I just shoved snow for the second time since yesterday and I have to say it is my back is thanking me right now.
+Tweeted on: Fri Mar 27 15:53:27 +0000 2009
+
+17. Tweet: I just got back from a day of networking.  Boy am I tired.  But I do have a nice pile of cards now.
+Tweeted on: Wed Mar 11 01:59:24 +0000 2009
+
+18. Tweet: But it's the planet formally known as Pluto...But Pluto is not a planet any more.
+Tweeted on: Tue Mar 10 02:51:26 +0000 2009
+
+19. Tweet: Now, I'm signing up for every social networking site on the planet...
+Tweeted on: Tue Mar 10 02:51:20 +0000 2009
+
+20. Tweet: I'm looking for friends
+Tweeted on: Tue Mar 10 02:48:08 +0000 2009
+
+1. Tweet: Sad that some thought it okay to make a policy for this: https://t.co/Gpnit3wAEu
+Tweeted on: Thu Feb 08 06:44:42 +0000 2018
+
+2. Tweet: Didn't I just see this in the new Cloverfield movie? https://t.co/iaC3oykdE8
+Tweeted on: Thu Feb 08 06:41:01 +0000 2018
+
+3. Tweet: https://t.co/rBABPTaKOG
+Tweeted on: Thu Feb 08 06:39:18 +0000 2018
+
+4. Tweet: Whoa! https://t.co/LtUPJXuxw9
+Tweeted on: Thu Feb 08 06:38:33 +0000 2018
+
+5. Tweet: Great article about Jr. dev job description: https://t.co/VCQhQTlKXY
+Tweeted on: Thu Feb 08 06:30:10 +0000 2018
+
+6. Tweet: Yes, rockets! https://t.co/EboJkNJZsA
+Tweeted on: Thu Feb 08 06:28:37 +0000 2018
+
+7. Tweet: I like cheese.
+Tweeted on: Thu Mar 23 20:08:06 +0000 2017
+
+8. Tweet: Want to give your Mac interface a retro look? Download this icon and wallpaper set by @BenVessey click here! http://t.co/4nJ3zzp3
+Tweeted on: Fri Jul 20 06:38:00 +0000 2012
+
+9. Tweet: RT @TCDahl: Bye bye desktop/laptop! In 2011, One billion+ Smart Devices. @Dan_Rowinski http://t.co/VpvsIEJB via @RWW
+Tweeted on: Fri Mar 30 20:19:32 +0000 2012
+
+10. Tweet: Sad when the official app doesn't work better then a third party.
+Tweeted on: Mon Mar 26 22:04:34 +0000 2012
+
+11. Tweet: Frozen Planet is pretty awesome.
+Tweeted on: Mon Mar 26 03:45:50 +0000 2012
+
+12. Tweet: What's up with my iPhone facebook app? It's not working.
+Tweeted on: Sat Feb 20 18:26:14 +0000 2010
+
+13. Tweet: I did it.  I finally got my very own iPhone and it is the best piece of techology I've gotten in a long time.
+Tweeted on: Thu Aug 20 05:30:20 +0000 2009
+
+14. Tweet: I just had the most amazing organic chicken curry salad sandwich in my life.  I went to Vert Kitchen at 704 S. Pearl St.  Go check them out!
+Tweeted on: Fri May 01 20:11:14 +0000 2009
+
+15. Tweet: Just uploaded some client content for Akavit and was great.  Akavit is a pretty awesome place to get work done.
+Tweeted on: Thu Apr 30 23:04:36 +0000 2009
+
+16. Tweet: I just shoved snow for the second time since yesterday and I have to say it is my back is thanking me right now.
+Tweeted on: Fri Mar 27 15:53:27 +0000 2009
+
+17. Tweet: I just got back from a day of networking.  Boy am I tired.  But I do have a nice pile of cards now.
+Tweeted on: Wed Mar 11 01:59:24 +0000 2009
+
+18. Tweet: But it's the planet formally known as Pluto...But Pluto is not a planet any more.
+Tweeted on: Tue Mar 10 02:51:26 +0000 2009
+
+19. Tweet: Now, I'm signing up for every social networking site on the planet...
+Tweeted on: Tue Mar 10 02:51:20 +0000 2009
+
+20. Tweet: I'm looking for friends
+Tweeted on: Tue Mar 10 02:48:08 +0000 2009
+
+1. Tweet: Sad that some thought it okay to make a policy for this: https://t.co/Gpnit3wAEu
+Tweeted on: Thu Feb 08 06:44:42 +0000 2018
+
+2. Tweet: Didn't I just see this in the new Cloverfield movie? https://t.co/iaC3oykdE8
+Tweeted on: Thu Feb 08 06:41:01 +0000 2018
+
+3. Tweet: https://t.co/rBABPTaKOG
+Tweeted on: Thu Feb 08 06:39:18 +0000 2018
+
+4. Tweet: Whoa! https://t.co/LtUPJXuxw9
+Tweeted on: Thu Feb 08 06:38:33 +0000 2018
+
+5. Tweet: Great article about Jr. dev job description: https://t.co/VCQhQTlKXY
+Tweeted on: Thu Feb 08 06:30:10 +0000 2018
+
+6. Tweet: Yes, rockets! https://t.co/EboJkNJZsA
+Tweeted on: Thu Feb 08 06:28:37 +0000 2018
+
+7. Tweet: I like cheese.
+Tweeted on: Thu Mar 23 20:08:06 +0000 2017
+
+8. Tweet: Want to give your Mac interface a retro look? Download this icon and wallpaper set by @BenVessey click here! http://t.co/4nJ3zzp3
+Tweeted on: Fri Jul 20 06:38:00 +0000 2012
+
+9. Tweet: RT @TCDahl: Bye bye desktop/laptop! In 2011, One billion+ Smart Devices. @Dan_Rowinski http://t.co/VpvsIEJB via @RWW
+Tweeted on: Fri Mar 30 20:19:32 +0000 2012
+
+10. Tweet: Sad when the official app doesn't work better then a third party.
+Tweeted on: Mon Mar 26 22:04:34 +0000 2012
+
+11. Tweet: Frozen Planet is pretty awesome.
+Tweeted on: Mon Mar 26 03:45:50 +0000 2012
+
+12. Tweet: What's up with my iPhone facebook app? It's not working.
+Tweeted on: Sat Feb 20 18:26:14 +0000 2010
+
+13. Tweet: I did it.  I finally got my very own iPhone and it is the best piece of techology I've gotten in a long time.
+Tweeted on: Thu Aug 20 05:30:20 +0000 2009
+
+14. Tweet: I just had the most amazing organic chicken curry salad sandwich in my life.  I went to Vert Kitchen at 704 S. Pearl St.  Go check them out!
+Tweeted on: Fri May 01 20:11:14 +0000 2009
+
+15. Tweet: Just uploaded some client content for Akavit and was great.  Akavit is a pretty awesome place to get work done.
+Tweeted on: Thu Apr 30 23:04:36 +0000 2009
+
+16. Tweet: I just shoved snow for the second time since yesterday and I have to say it is my back is thanking me right now.
+Tweeted on: Fri Mar 27 15:53:27 +0000 2009
+
+17. Tweet: I just got back from a day of networking.  Boy am I tired.  But I do have a nice pile of cards now.
+Tweeted on: Wed Mar 11 01:59:24 +0000 2009
+
+18. Tweet: But it's the planet formally known as Pluto...But Pluto is not a planet any more.
+Tweeted on: Tue Mar 10 02:51:26 +0000 2009
+
+19. Tweet: Now, I'm signing up for every social networking site on the planet...
+Tweeted on: Tue Mar 10 02:51:20 +0000 2009
+
+20. Tweet: I'm looking for friends
+Tweeted on: Tue Mar 10 02:48:08 +0000 2009
+
+1. Tweet: Sad that some thought it okay to make a policy for this: https://t.co/Gpnit3wAEu
+Tweeted on: Thu Feb 08 06:44:42 +0000 2018
+
+2. Tweet: Didn't I just see this in the new Cloverfield movie? https://t.co/iaC3oykdE8
+Tweeted on: Thu Feb 08 06:41:01 +0000 2018
+
+3. Tweet: https://t.co/rBABPTaKOG
+Tweeted on: Thu Feb 08 06:39:18 +0000 2018
+
+4. Tweet: Whoa! https://t.co/LtUPJXuxw9
+Tweeted on: Thu Feb 08 06:38:33 +0000 2018
+
+5. Tweet: Great article about Jr. dev job description: https://t.co/VCQhQTlKXY
+Tweeted on: Thu Feb 08 06:30:10 +0000 2018
+
+6. Tweet: Yes, rockets! https://t.co/EboJkNJZsA
+Tweeted on: Thu Feb 08 06:28:37 +0000 2018
+
+7. Tweet: I like cheese.
+Tweeted on: Thu Mar 23 20:08:06 +0000 2017
+
+8. Tweet: Want to give your Mac interface a retro look? Download this icon and wallpaper set by @BenVessey click here! http://t.co/4nJ3zzp3
+Tweeted on: Fri Jul 20 06:38:00 +0000 2012
+
+9. Tweet: RT @TCDahl: Bye bye desktop/laptop! In 2011, One billion+ Smart Devices. @Dan_Rowinski http://t.co/VpvsIEJB via @RWW
+Tweeted on: Fri Mar 30 20:19:32 +0000 2012
+
+10. Tweet: Sad when the official app doesn't work better then a third party.
+Tweeted on: Mon Mar 26 22:04:34 +0000 2012
+
+11. Tweet: Frozen Planet is pretty awesome.
+Tweeted on: Mon Mar 26 03:45:50 +0000 2012
+
+12. Tweet: What's up with my iPhone facebook app? It's not working.
+Tweeted on: Sat Feb 20 18:26:14 +0000 2010
+
+13. Tweet: I did it.  I finally got my very own iPhone and it is the best piece of techology I've gotten in a long time.
+Tweeted on: Thu Aug 20 05:30:20 +0000 2009
+
+14. Tweet: I just had the most amazing organic chicken curry salad sandwich in my life.  I went to Vert Kitchen at 704 S. Pearl St.  Go check them out!
+Tweeted on: Fri May 01 20:11:14 +0000 2009
+
+15. Tweet: Just uploaded some client content for Akavit and was great.  Akavit is a pretty awesome place to get work done.
+Tweeted on: Thu Apr 30 23:04:36 +0000 2009
+
+16. Tweet: I just shoved snow for the second time since yesterday and I have to say it is my back is thanking me right now.
+Tweeted on: Fri Mar 27 15:53:27 +0000 2009
+
+17. Tweet: I just got back from a day of networking.  Boy am I tired.  But I do have a nice pile of cards now.
+Tweeted on: Wed Mar 11 01:59:24 +0000 2009
+
+18. Tweet: But it's the planet formally known as Pluto...But Pluto is not a planet any more.
+Tweeted on: Tue Mar 10 02:51:26 +0000 2009
+
+19. Tweet: Now, I'm signing up for every social networking site on the planet...
+Tweeted on: Tue Mar 10 02:51:20 +0000 2009
+
+20. Tweet: I'm looking for friends
+Tweeted on: Tue Mar 10 02:48:08 +0000 2009
+
+1. Tweet: Sad that some thought it okay to make a policy for this: https://t.co/Gpnit3wAEu
+Tweeted on: Thu Feb 08 06:44:42 +0000 2018
+
+2. Tweet: Didn't I just see this in the new Cloverfield movie? https://t.co/iaC3oykdE8
+Tweeted on: Thu Feb 08 06:41:01 +0000 2018
+
+3. Tweet: https://t.co/rBABPTaKOG
+Tweeted on: Thu Feb 08 06:39:18 +0000 2018
+
+4. Tweet: Whoa! https://t.co/LtUPJXuxw9
+Tweeted on: Thu Feb 08 06:38:33 +0000 2018
+
+5. Tweet: Great article about Jr. dev job description: https://t.co/VCQhQTlKXY
+Tweeted on: Thu Feb 08 06:30:10 +0000 2018
+
+6. Tweet: Yes, rockets! https://t.co/EboJkNJZsA
+Tweeted on: Thu Feb 08 06:28:37 +0000 2018
+
+7. Tweet: I like cheese.
+Tweeted on: Thu Mar 23 20:08:06 +0000 2017
+
+8. Tweet: Want to give your Mac interface a retro look? Download this icon and wallpaper set by @BenVessey click here! http://t.co/4nJ3zzp3
+Tweeted on: Fri Jul 20 06:38:00 +0000 2012
+
+9. Tweet: RT @TCDahl: Bye bye desktop/laptop! In 2011, One billion+ Smart Devices. @Dan_Rowinski http://t.co/VpvsIEJB via @RWW
+Tweeted on: Fri Mar 30 20:19:32 +0000 2012
+
+10. Tweet: Sad when the official app doesn't work better then a third party.
+Tweeted on: Mon Mar 26 22:04:34 +0000 2012
+
+11. Tweet: Frozen Planet is pretty awesome.
+Tweeted on: Mon Mar 26 03:45:50 +0000 2012
+
+12. Tweet: What's up with my iPhone facebook app? It's not working.
+Tweeted on: Sat Feb 20 18:26:14 +0000 2010
+
+13. Tweet: I did it.  I finally got my very own iPhone and it is the best piece of techology I've gotten in a long time.
+Tweeted on: Thu Aug 20 05:30:20 +0000 2009
+
+14. Tweet: I just had the most amazing organic chicken curry salad sandwich in my life.  I went to Vert Kitchen at 704 S. Pearl St.  Go check them out!
+Tweeted on: Fri May 01 20:11:14 +0000 2009
+
+15. Tweet: Just uploaded some client content for Akavit and was great.  Akavit is a pretty awesome place to get work done.
+Tweeted on: Thu Apr 30 23:04:36 +0000 2009
+
+16. Tweet: I just shoved snow for the second time since yesterday and I have to say it is my back is thanking me right now.
+Tweeted on: Fri Mar 27 15:53:27 +0000 2009
+
+17. Tweet: I just got back from a day of networking.  Boy am I tired.  But I do have a nice pile of cards now.
+Tweeted on: Wed Mar 11 01:59:24 +0000 2009
+
+18. Tweet: But it's the planet formally known as Pluto...But Pluto is not a planet any more.
+Tweeted on: Tue Mar 10 02:51:26 +0000 2009
+
+19. Tweet: Now, I'm signing up for every social networking site on the planet...
+Tweeted on: Tue Mar 10 02:51:20 +0000 2009
+
+20. Tweet: I'm looking for friends
+Tweeted on: Tue Mar 10 02:48:08 +0000 2009
+
+
+========= Result 1 =========
+Artist: Charlie Puth
+Song title: How Long
+Album name: How Long
+URL Preview: https://p.scdn.co/mp3-preview/8857931984acbbcca43e73745084cc76aba25845?cid=c823a570f97343e78f3b9924178bd1f5
+=============================
+1. Tweet: Sad that some thought it okay to make a policy for this: https://t.co/Gpnit3wAEu
+Tweeted on: Thu Feb 08 06:44:42 +0000 2018
+
+2. Tweet: Didn't I just see this in the new Cloverfield movie? https://t.co/iaC3oykdE8
+Tweeted on: Thu Feb 08 06:41:01 +0000 2018
+
+3. Tweet: https://t.co/rBABPTaKOG
+Tweeted on: Thu Feb 08 06:39:18 +0000 2018
+
+4. Tweet: Whoa! https://t.co/LtUPJXuxw9
+Tweeted on: Thu Feb 08 06:38:33 +0000 2018
+
+5. Tweet: Great article about Jr. dev job description: https://t.co/VCQhQTlKXY
+Tweeted on: Thu Feb 08 06:30:10 +0000 2018
+
+6. Tweet: Yes, rockets! https://t.co/EboJkNJZsA
+Tweeted on: Thu Feb 08 06:28:37 +0000 2018
+
+7. Tweet: I like cheese.
+Tweeted on: Thu Mar 23 20:08:06 +0000 2017
+
+8. Tweet: Want to give your Mac interface a retro look? Download this icon and wallpaper set by @BenVessey click here! http://t.co/4nJ3zzp3
+Tweeted on: Fri Jul 20 06:38:00 +0000 2012
+
+9. Tweet: RT @TCDahl: Bye bye desktop/laptop! In 2011, One billion+ Smart Devices. @Dan_Rowinski http://t.co/VpvsIEJB via @RWW
+Tweeted on: Fri Mar 30 20:19:32 +0000 2012
+
+10. Tweet: Sad when the official app doesn't work better then a third party.
+Tweeted on: Mon Mar 26 22:04:34 +0000 2012
+
+11. Tweet: Frozen Planet is pretty awesome.
+Tweeted on: Mon Mar 26 03:45:50 +0000 2012
+
+12. Tweet: What's up with my iPhone facebook app? It's not working.
+Tweeted on: Sat Feb 20 18:26:14 +0000 2010
+
+13. Tweet: I did it.  I finally got my very own iPhone and it is the best piece of techology I've gotten in a long time.
+Tweeted on: Thu Aug 20 05:30:20 +0000 2009
+
+14. Tweet: I just had the most amazing organic chicken curry salad sandwich in my life.  I went to Vert Kitchen at 704 S. Pearl St.  Go check them out!
+Tweeted on: Fri May 01 20:11:14 +0000 2009
+
+15. Tweet: Just uploaded some client content for Akavit and was great.  Akavit is a pretty awesome place to get work done.
+Tweeted on: Thu Apr 30 23:04:36 +0000 2009
+
+16. Tweet: I just shoved snow for the second time since yesterday and I have to say it is my back is thanking me right now.
+Tweeted on: Fri Mar 27 15:53:27 +0000 2009
+
+17. Tweet: I just got back from a day of networking.  Boy am I tired.  But I do have a nice pile of cards now.
+Tweeted on: Wed Mar 11 01:59:24 +0000 2009
+
+18. Tweet: But it's the planet formally known as Pluto...But Pluto is not a planet any more.
+Tweeted on: Tue Mar 10 02:51:26 +0000 2009
+
+19. Tweet: Now, I'm signing up for every social networking site on the planet...
+Tweeted on: Tue Mar 10 02:51:20 +0000 2009
+
+20. Tweet: I'm looking for friends
+Tweeted on: Tue Mar 10 02:48:08 +0000 2009
+
+1. Tweet: Sad that some thought it okay to make a policy for this: https://t.co/Gpnit3wAEu
+Tweeted on: Thu Feb 08 06:44:42 +0000 2018
+
+2. Tweet: Didn't I just see this in the new Cloverfield movie? https://t.co/iaC3oykdE8
+Tweeted on: Thu Feb 08 06:41:01 +0000 2018
+
+3. Tweet: https://t.co/rBABPTaKOG
+Tweeted on: Thu Feb 08 06:39:18 +0000 2018
+
+4. Tweet: Whoa! https://t.co/LtUPJXuxw9
+Tweeted on: Thu Feb 08 06:38:33 +0000 2018
+
+5. Tweet: Great article about Jr. dev job description: https://t.co/VCQhQTlKXY
+Tweeted on: Thu Feb 08 06:30:10 +0000 2018
+
+6. Tweet: Yes, rockets! https://t.co/EboJkNJZsA
+Tweeted on: Thu Feb 08 06:28:37 +0000 2018
+
+7. Tweet: I like cheese.
+Tweeted on: Thu Mar 23 20:08:06 +0000 2017
+
+8. Tweet: Want to give your Mac interface a retro look? Download this icon and wallpaper set by @BenVessey click here! http://t.co/4nJ3zzp3
+Tweeted on: Fri Jul 20 06:38:00 +0000 2012
+
+9. Tweet: RT @TCDahl: Bye bye desktop/laptop! In 2011, One billion+ Smart Devices. @Dan_Rowinski http://t.co/VpvsIEJB via @RWW
+Tweeted on: Fri Mar 30 20:19:32 +0000 2012
+
+10. Tweet: Sad when the official app doesn't work better then a third party.
+Tweeted on: Mon Mar 26 22:04:34 +0000 2012
+
+11. Tweet: Frozen Planet is pretty awesome.
+Tweeted on: Mon Mar 26 03:45:50 +0000 2012
+
+12. Tweet: What's up with my iPhone facebook app? It's not working.
+Tweeted on: Sat Feb 20 18:26:14 +0000 2010
+
+13. Tweet: I did it.  I finally got my very own iPhone and it is the best piece of techology I've gotten in a long time.
+Tweeted on: Thu Aug 20 05:30:20 +0000 2009
+
+14. Tweet: I just had the most amazing organic chicken curry salad sandwich in my life.  I went to Vert Kitchen at 704 S. Pearl St.  Go check them out!
+Tweeted on: Fri May 01 20:11:14 +0000 2009
+
+15. Tweet: Just uploaded some client content for Akavit and was great.  Akavit is a pretty awesome place to get work done.
+Tweeted on: Thu Apr 30 23:04:36 +0000 2009
+
+16. Tweet: I just shoved snow for the second time since yesterday and I have to say it is my back is thanking me right now.
+Tweeted on: Fri Mar 27 15:53:27 +0000 2009
+
+17. Tweet: I just got back from a day of networking.  Boy am I tired.  But I do have a nice pile of cards now.
+Tweeted on: Wed Mar 11 01:59:24 +0000 2009
+
+18. Tweet: But it's the planet formally known as Pluto...But Pluto is not a planet any more.
+Tweeted on: Tue Mar 10 02:51:26 +0000 2009
+
+19. Tweet: Now, I'm signing up for every social networking site on the planet...
+Tweeted on: Tue Mar 10 02:51:20 +0000 2009
+
+20. Tweet: I'm looking for friends
+Tweeted on: Tue Mar 10 02:48:08 +0000 2009
+
+1. Tweet: Sad that some thought it okay to make a policy for this: https://t.co/Gpnit3wAEu
+Tweeted on: Thu Feb 08 06:44:42 +0000 2018
+
+2. Tweet: Didn't I just see this in the new Cloverfield movie? https://t.co/iaC3oykdE8
+Tweeted on: Thu Feb 08 06:41:01 +0000 2018
+
+3. Tweet: https://t.co/rBABPTaKOG
+Tweeted on: Thu Feb 08 06:39:18 +0000 2018
+
+4. Tweet: Whoa! https://t.co/LtUPJXuxw9
+Tweeted on: Thu Feb 08 06:38:33 +0000 2018
+
+5. Tweet: Great article about Jr. dev job description: https://t.co/VCQhQTlKXY
+Tweeted on: Thu Feb 08 06:30:10 +0000 2018
+
+6. Tweet: Yes, rockets! https://t.co/EboJkNJZsA
+Tweeted on: Thu Feb 08 06:28:37 +0000 2018
+
+7. Tweet: I like cheese.
+Tweeted on: Thu Mar 23 20:08:06 +0000 2017
+
+8. Tweet: Want to give your Mac interface a retro look? Download this icon and wallpaper set by @BenVessey click here! http://t.co/4nJ3zzp3
+Tweeted on: Fri Jul 20 06:38:00 +0000 2012
+
+9. Tweet: RT @TCDahl: Bye bye desktop/laptop! In 2011, One billion+ Smart Devices. @Dan_Rowinski http://t.co/VpvsIEJB via @RWW
+Tweeted on: Fri Mar 30 20:19:32 +0000 2012
+
+10. Tweet: Sad when the official app doesn't work better then a third party.
+Tweeted on: Mon Mar 26 22:04:34 +0000 2012
+
+11. Tweet: Frozen Planet is pretty awesome.
+Tweeted on: Mon Mar 26 03:45:50 +0000 2012
+
+12. Tweet: What's up with my iPhone facebook app? It's not working.
+Tweeted on: Sat Feb 20 18:26:14 +0000 2010
+
+13. Tweet: I did it.  I finally got my very own iPhone and it is the best piece of techology I've gotten in a long time.
+Tweeted on: Thu Aug 20 05:30:20 +0000 2009
+
+14. Tweet: I just had the most amazing organic chicken curry salad sandwich in my life.  I went to Vert Kitchen at 704 S. Pearl St.  Go check them out!
+Tweeted on: Fri May 01 20:11:14 +0000 2009
+
+15. Tweet: Just uploaded some client content for Akavit and was great.  Akavit is a pretty awesome place to get work done.
+Tweeted on: Thu Apr 30 23:04:36 +0000 2009
+
+16. Tweet: I just shoved snow for the second time since yesterday and I have to say it is my back is thanking me right now.
+Tweeted on: Fri Mar 27 15:53:27 +0000 2009
+
+17. Tweet: I just got back from a day of networking.  Boy am I tired.  But I do have a nice pile of cards now.
+Tweeted on: Wed Mar 11 01:59:24 +0000 2009
+
+18. Tweet: But it's the planet formally known as Pluto...But Pluto is not a planet any more.
+Tweeted on: Tue Mar 10 02:51:26 +0000 2009
+
+19. Tweet: Now, I'm signing up for every social networking site on the planet...
+Tweeted on: Tue Mar 10 02:51:20 +0000 2009
+
+20. Tweet: I'm looking for friends
+Tweeted on: Tue Mar 10 02:48:08 +0000 2009
+
+1. Tweet: Sad that some thought it okay to make a policy for this: https://t.co/Gpnit3wAEu
+Tweeted on: Thu Feb 08 06:44:42 +0000 2018
+
+2. Tweet: Didn't I just see this in the new Cloverfield movie? https://t.co/iaC3oykdE8
+Tweeted on: Thu Feb 08 06:41:01 +0000 2018
+
+3. Tweet: https://t.co/rBABPTaKOG
+Tweeted on: Thu Feb 08 06:39:18 +0000 2018
+
+4. Tweet: Whoa! https://t.co/LtUPJXuxw9
+Tweeted on: Thu Feb 08 06:38:33 +0000 2018
+
+5. Tweet: Great article about Jr. dev job description: https://t.co/VCQhQTlKXY
+Tweeted on: Thu Feb 08 06:30:10 +0000 2018
+
+6. Tweet: Yes, rockets! https://t.co/EboJkNJZsA
+Tweeted on: Thu Feb 08 06:28:37 +0000 2018
+
+7. Tweet: I like cheese.
+Tweeted on: Thu Mar 23 20:08:06 +0000 2017
+
+8. Tweet: Want to give your Mac interface a retro look? Download this icon and wallpaper set by @BenVessey click here! http://t.co/4nJ3zzp3
+Tweeted on: Fri Jul 20 06:38:00 +0000 2012
+
+9. Tweet: RT @TCDahl: Bye bye desktop/laptop! In 2011, One billion+ Smart Devices. @Dan_Rowinski http://t.co/VpvsIEJB via @RWW
+Tweeted on: Fri Mar 30 20:19:32 +0000 2012
+
+10. Tweet: Sad when the official app doesn't work better then a third party.
+Tweeted on: Mon Mar 26 22:04:34 +0000 2012
+
+11. Tweet: Frozen Planet is pretty awesome.
+Tweeted on: Mon Mar 26 03:45:50 +0000 2012
+
+12. Tweet: What's up with my iPhone facebook app? It's not working.
+Tweeted on: Sat Feb 20 18:26:14 +0000 2010
+
+13. Tweet: I did it.  I finally got my very own iPhone and it is the best piece of techology I've gotten in a long time.
+Tweeted on: Thu Aug 20 05:30:20 +0000 2009
+
+14. Tweet: I just had the most amazing organic chicken curry salad sandwich in my life.  I went to Vert Kitchen at 704 S. Pearl St.  Go check them out!
+Tweeted on: Fri May 01 20:11:14 +0000 2009
+
+15. Tweet: Just uploaded some client content for Akavit and was great.  Akavit is a pretty awesome place to get work done.
+Tweeted on: Thu Apr 30 23:04:36 +0000 2009
+
+16. Tweet: I just shoved snow for the second time since yesterday and I have to say it is my back is thanking me right now.
+Tweeted on: Fri Mar 27 15:53:27 +0000 2009
+
+17. Tweet: I just got back from a day of networking.  Boy am I tired.  But I do have a nice pile of cards now.
+Tweeted on: Wed Mar 11 01:59:24 +0000 2009
+
+18. Tweet: But it's the planet formally known as Pluto...But Pluto is not a planet any more.
+Tweeted on: Tue Mar 10 02:51:26 +0000 2009
+
+19. Tweet: Now, I'm signing up for every social networking site on the planet...
+Tweeted on: Tue Mar 10 02:51:20 +0000 2009
+
+20. Tweet: I'm looking for friends
+Tweeted on: Tue Mar 10 02:48:08 +0000 2009
+
+1. Tweet: Sad that some thought it okay to make a policy for this: https://t.co/Gpnit3wAEu
+Tweeted on: Thu Feb 08 06:44:42 +0000 2018
+
+2. Tweet: Didn't I just see this in the new Cloverfield movie? https://t.co/iaC3oykdE8
+Tweeted on: Thu Feb 08 06:41:01 +0000 2018
+
+3. Tweet: https://t.co/rBABPTaKOG
+Tweeted on: Thu Feb 08 06:39:18 +0000 2018
+
+4. Tweet: Whoa! https://t.co/LtUPJXuxw9
+Tweeted on: Thu Feb 08 06:38:33 +0000 2018
+
+5. Tweet: Great article about Jr. dev job description: https://t.co/VCQhQTlKXY
+Tweeted on: Thu Feb 08 06:30:10 +0000 2018
+
+6. Tweet: Yes, rockets! https://t.co/EboJkNJZsA
+Tweeted on: Thu Feb 08 06:28:37 +0000 2018
+
+7. Tweet: I like cheese.
+Tweeted on: Thu Mar 23 20:08:06 +0000 2017
+
+8. Tweet: Want to give your Mac interface a retro look? Download this icon and wallpaper set by @BenVessey click here! http://t.co/4nJ3zzp3
+Tweeted on: Fri Jul 20 06:38:00 +0000 2012
+
+9. Tweet: RT @TCDahl: Bye bye desktop/laptop! In 2011, One billion+ Smart Devices. @Dan_Rowinski http://t.co/VpvsIEJB via @RWW
+Tweeted on: Fri Mar 30 20:19:32 +0000 2012
+
+10. Tweet: Sad when the official app doesn't work better then a third party.
+Tweeted on: Mon Mar 26 22:04:34 +0000 2012
+
+11. Tweet: Frozen Planet is pretty awesome.
+Tweeted on: Mon Mar 26 03:45:50 +0000 2012
+
+12. Tweet: What's up with my iPhone facebook app? It's not working.
+Tweeted on: Sat Feb 20 18:26:14 +0000 2010
+
+13. Tweet: I did it.  I finally got my very own iPhone and it is the best piece of techology I've gotten in a long time.
+Tweeted on: Thu Aug 20 05:30:20 +0000 2009
+
+14. Tweet: I just had the most amazing organic chicken curry salad sandwich in my life.  I went to Vert Kitchen at 704 S. Pearl St.  Go check them out!
+Tweeted on: Fri May 01 20:11:14 +0000 2009
+
+15. Tweet: Just uploaded some client content for Akavit and was great.  Akavit is a pretty awesome place to get work done.
+Tweeted on: Thu Apr 30 23:04:36 +0000 2009
+
+16. Tweet: I just shoved snow for the second time since yesterday and I have to say it is my back is thanking me right now.
+Tweeted on: Fri Mar 27 15:53:27 +0000 2009
+
+17. Tweet: I just got back from a day of networking.  Boy am I tired.  But I do have a nice pile of cards now.
+Tweeted on: Wed Mar 11 01:59:24 +0000 2009
+
+18. Tweet: But it's the planet formally known as Pluto...But Pluto is not a planet any more.
+Tweeted on: Tue Mar 10 02:51:26 +0000 2009
+
+19. Tweet: Now, I'm signing up for every social networking site on the planet...
+Tweeted on: Tue Mar 10 02:51:20 +0000 2009
+
+20. Tweet: I'm looking for friends
+Tweeted on: Tue Mar 10 02:48:08 +0000 2009
+
+
+========= Result 1 =========
+Artist: AWOLNATION
+Song title: Sail
+Album name: Megalithic Symphony Deluxe
+URL Preview: https://p.scdn.co/mp3-preview/9a7c9ece7575d0bce24d8a24c0f35f48853655cb?cid=c823a570f97343e78f3b9924178bd1f5
+=============================
+
+========= Result 1 =========
+Artist: AWOLNATION
+Song title: Sail
+Album name: Megalithic Symphony Deluxe
+URL Preview: https://p.scdn.co/mp3-preview/9a7c9ece7575d0bce24d8a24c0f35f48853655cb?cid=c823a570f97343e78f3b9924178bd1f5
+=============================
+
+========= Result 1 =========
+Artist: AWOLNATION
+Song title: Sail
+Album name: Megalithic Symphony Deluxe
+URL Preview: https://p.scdn.co/mp3-preview/9a7c9ece7575d0bce24d8a24c0f35f48853655cb?cid=c823a570f97343e78f3b9924178bd1f5
+=============================
+
+========= Result 1 =========
+Artist: AWOLNATION
+Song title: Sail
+Album name: Megalithic Symphony Deluxe
+URL Preview: https://p.scdn.co/mp3-preview/9a7c9ece7575d0bce24d8a24c0f35f48853655cb?cid=c823a570f97343e78f3b9924178bd1f5
+=============================
+
+========= Result 1 =========
+Artist: AWOLNATION
+Song title: Sail
+Album name: Megalithic Symphony Deluxe
+URL Preview: https://p.scdn.co/mp3-preview/9a7c9ece7575d0bce24d8a24c0f35f48853655cb?cid=c823a570f97343e78f3b9924178bd1f5
+=============================
+
+========= Result 1 =========
+Artist: AWOLNATION
+Song title: Sail
+Album name: Megalithic Symphony Deluxe
+URL Preview: https://p.scdn.co/mp3-preview/9a7c9ece7575d0bce24d8a24c0f35f48853655cb?cid=c823a570f97343e78f3b9924178bd1f5
+=============================
+
+========= Result 1 =========
+Artist: AWOLNATION
+Song title: Sail
+Album name: Megalithic Symphony Deluxe
+URL Preview: https://p.scdn.co/mp3-preview/9a7c9ece7575d0bce24d8a24c0f35f48853655cb?cid=c823a570f97343e78f3b9924178bd1f5
+=============================
+
+========= Result 1 =========
+Artist: AWOLNATION
+Song title: Sail
+Album name: Megalithic Symphony Deluxe
+URL Preview: https://p.scdn.co/mp3-preview/9a7c9ece7575d0bce24d8a24c0f35f48853655cb?cid=c823a570f97343e78f3b9924178bd1f5
+=============================
+
+========= Result 1 =========
+Artist: AWOLNATION
+Song title: Sail
+Album name: Megalithic Symphony Deluxe
+URL Preview: https://p.scdn.co/mp3-preview/9a7c9ece7575d0bce24d8a24c0f35f48853655cb?cid=c823a570f97343e78f3b9924178bd1f5
+=============================
+
+========= Result 1 =========
+Artist: AWOLNATION
+Song title: Sail
+Album name: Megalithic Symphony Deluxe
+URL Preview: https://p.scdn.co/mp3-preview/9a7c9ece7575d0bce24d8a24c0f35f48853655cb?cid=c823a570f97343e78f3b9924178bd1f5
+=============================
+-----OMDB Log Entry Start-----
+
+Processed on:
+Fri Feb 09 2018 14:30:17 GMT-0700 (MST)
+
+terminal commands:
+/usr/local/bin/node,/Users/MCP/du/homework/liri-node-app/liri.js,movie_this
+
+Data Output: 
+
+-----OMDB Log Entry Start-----
+
+Processed on:
+Fri Feb 09 2018 14:30:30 GMT-0700 (MST)
+
+terminal commands:
+/usr/local/bin/node,/Users/MCP/du/homework/liri-node-app/liri.js,movie_this
+
+Data Output: 
+
+Movie Title: Amelie
+Year: 2017
+IMDB rating: N/A
+Rotten Tomatoes Rating: There is no Rotten Tomatoes Rating for this movie 
+Country: N/A
+Language: N/A
+Plot: N/A
+Actors: Marie Carrour
+
+-----OMDB Log Entry End-----
+
+-----OMDB Log Entry Start-----
+
+Processed on:
+Fri Feb 09 2018 14:33:16 GMT-0700 (MST)
+
+terminal commands:
+/usr/local/bin/node,/Users/MCP/du/homework/liri-node-app/liri.js,movie_this,aliens
+
+Data Output: 
+
+Movie Title: Aliens
+Year: 1986
+IMDB rating: 8.4
+Rotten Tomatoes Rating: 98%
+Country: USA
+Language: English
+Plot: 57 years later, Ellen Ripley is rescued by a deep salvage team during her hypersleep. The moon from the original movie has been colonized, but contact is lost. This time, colonial marines have impressive firepower, but will that be enough?
+Actors: Sigourney Weaver, Carrie Henn, Michael Biehn, Paul Reiser
+
+-----OMDB Log Entry End-----
+
+Movie Title: Aliens
+Year: 1986
+IMDB rating: 8.4
+Rotten Tomatoes Rating: 98%
+Country: USA
+Language: English
+Plot: 57 years later, Ellen Ripley is rescued by a deep salvage team during her hypersleep. The moon from the original movie has been colonized, but contact is lost. This time, colonial marines have impressive firepower, but will that be enough?
+Actors: Sigourney Weaver, Carrie Henn, Michael Biehn, Paul Reiser
+
+-----OMDB Log Entry End-----
+
+Movie Title: Aliens
+Year: 1986
+IMDB rating: 8.4
+Rotten Tomatoes Rating: 98%
+Country: USA
+Language: English
+Plot: 57 years later, Ellen Ripley is rescued by a deep salvage team during her hypersleep. The moon from the original movie has been colonized, but contact is lost. This time, colonial marines have impressive firepower, but will that be enough?
+Actors: Sigourney Weaver, Carrie Henn, Michael Biehn, Paul Reiser
+
+-----OMDB Log Entry End-----
+
